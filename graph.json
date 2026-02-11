@@ -1,0 +1,15 @@
+{
+  "BUMI": [
+    {
+      "destination": "MARS",
+      "distance": 200
+    }
+  ],
+  "MARS": [
+    {
+      "destination": "BUMI",
+      "distance": 200
+    }
+  ],
+  "PLUTO": []
+}

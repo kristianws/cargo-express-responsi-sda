@@ -1,0 +1,16 @@
+========================================
+              SPACE EXPRESS    
+========================================
+1. Tambahkan Lokasi
+2. Tambahkan Jalan Antar Lokasi
+3. Hapus Jalan antar Lokasi
+4. Tampilkan Peta Ke Semua Lokasi
+5. Peta Jalan Terpendek Ke Semua Lokasi
+6. Rute Terbaik Antar Lokasi
+7. Tambahkan Kargo
+8. Cari Kargo
+9. Cargo Yang Diangkut
+10. Hapus Lokasi
+11. Hapus Cargo
+0. Exit
+========================================

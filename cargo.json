@@ -1,0 +1,12 @@
+{
+  "data": {
+    "cargoName": "TIMAS",
+    "weightCargo": 100
+  },
+  "left": {
+    "data": {
+      "cargoName": "BATUBARA",
+      "weightCargo": 200
+    }
+  }
+}
