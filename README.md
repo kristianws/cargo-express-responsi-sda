@@ -37,13 +37,6 @@ To run this project locally:
 
 ---
 
-
-
-### Repository Link
-You can find this repository on [GitHub](https://github.com/kristianws/cargo-express-responsi-sda). Contributions and feedback are appreciated!
-
----
-
 **Owner**: [kristianws](https://github.com/kristianws)
 **Primary Language**: Java
 **Visibility**: Public
